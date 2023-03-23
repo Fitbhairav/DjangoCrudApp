@@ -1,7 +1,5 @@
 # Django CRUD (Create Read Update Delete) Example By Bhairav Jangid
 
-The GUI of Project-
-![plot](C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot(83).png)
 This project contains-
  - creating table using ORM
  - listing, fetching, editing and deleting data from and to database
